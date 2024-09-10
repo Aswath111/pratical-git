@@ -1,5 +1,13 @@
 India is my country
 All indians are my brothers and sister
 I love my country
-I love tamilnadu
-i love theni
+
+=======
+
+India is my country
+All indians are my brothers and sister
+I love my country
+
+
+
+>>>>>>> e27778b14e840bc237e0f3bf2ee5a093f46bcee3
